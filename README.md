@@ -1,0 +1,1 @@
+This repository serves as a collection of public images and icons primarily for my projects, though others are welcome to utilize them as well. Feel free to browse and use these resources in accordance with the repository's license.
